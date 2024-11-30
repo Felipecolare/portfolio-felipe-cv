@@ -65,9 +65,5 @@ Sou um desenvolvedor Front-End com experiência em tecnologias modernas de desen
 - **LinkedIn**: [/in/felipe83105202](https://www.linkedin.com/in/felipe83105202/)
 - **GitHub**: [Felipecolare](https://github.com/Felipecolare)
 
-## 📄 Currículo
-[Baixar CV](images/Desenvolvedor%20front-end.pdf)
-
----
 
 **Feito com ❤️ por Felipe Augusto**
